@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="name">Nombre de Usuario</string>
+    <string name="email">Correo Electronico</string>
+    <string name="pass">Contraseña</string>
+    <string name="registration">Registrar Usuario</string>
+    <string name="segundo">Segunda Actividad</string>
+</resources>
