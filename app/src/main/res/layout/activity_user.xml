@@ -10,26 +10,10 @@
     tools:context=".ProfileActivity">
 
     <TextView
-        android:id="@+id/textViewNombre"
+        android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/user"
+        android:text="@string/userActivity"
         android:textAlignment="center"
         android:textSize="20dp" />
-
-    <TextView
-        android:id="@+id/textViewEmail"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/email"
-        android:textAlignment="center"
-        android:textSize="20dp" />
-
-    <Button
-        android:id="@+id/btnCerrarSesion"
-        android:layout_margin="20dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/cerrarSesion" />
-
 </LinearLayout>

@@ -4,5 +4,10 @@
     <string name="email">Correo Electronico</string>
     <string name="pass">Contraseña</string>
     <string name="registration">Registrar Usuario</string>
-    <string name="segundo">Segunda Actividad</string>
+    <string name="admin">Administrador</string>
+    <string name="user">Usuario</string>
+    <string name="userActivity">Activity de Usuario</string>
+    <string name="adminActivity">Activity de Admin</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="login">Iniciar Sesión</string>
 </resources>
